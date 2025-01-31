@@ -1,5 +1,3 @@
-# abstract_Demo
- Abstract classes sample
 # Abstract Classes Demo
 
 Bu proje, Java'da **abstract (soyut) sınıfların** ve **miras (inheritance)** mekanizmasının nasıl kullanıldığını gösteren bir demo içermektedir. Proje, farklı kullanıcı türleri için hesaplama yapan bir oyun hesap makinesi örneği üzerinden abstract sınıfların avantajlarını ve kullanımını açıklar.
