@@ -1,12 +1,8 @@
-class NegativeNumberException extends .....{
-    public  NegativeNumberException(String message){
-        ..................................
+public class Main {
+    
+    public static void main(String[] args) {
+        CustomerManager customerManager = new CustomerManager();
+        customerManager.databaseManager = new MySqlDatabaseManager();
+        customerManager.getCustomers();
     }
-}
-
-public static double calculateSquareRoot(double number) ..................{
-    if(number<0){
-        ....... new ....................("Negatif sayıların karekökü alınamaz");
-        }
-    return Math.sqrt(number);
 }
