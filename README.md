@@ -26,10 +26,4 @@ Proje, aşağıdaki sınıflardan oluşmaktadır:
    - Programın başlangıç noktasıdır.
    - Farklı kullanıcı türleri için hesaplama örnekleri içerir.
 
-## Nasıl Çalıştırılır?
 
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
-
-1. **Repoyu Klonlayın:**
-   ```bash
-   git clone https://github.com/enesdolgun33/abstractClasses_Demo.git
